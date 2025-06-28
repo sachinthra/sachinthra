@@ -44,10 +44,10 @@ I'm a Software Development Engineer (SDE-2) focused on building scalable cloud s
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sachinthra-nv)
-- [Twitter / X](https://twitter.com/Sachinthra_NV)
-- [GitHub](https://github.com/Sachinthra-NV)
-- 📫 [Email Me](mailto:sachinthravijeya@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sachinthra)
+- [Twitter / X](https://x.com/Sachinthra)
+- [GitHub](https://github.com/sachinthra)
+- 📫 [Email Me](mailto:sachinthranv@gmail.com)
 
 ---
 
