@@ -47,6 +47,13 @@ I'm a Software Development Engineer (SDE-2) focused on building scalable cloud s
 
 ---
 
+<h2>Find me</h2>
+<p>
+  <a href="https://github.com/sachinthra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/sachinthra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://x.com/Sachinthra" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
+  <a href="mailto:sachinthranv@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=red" /></a> 
+</p>
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sachinthra)
