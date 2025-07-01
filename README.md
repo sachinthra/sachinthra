@@ -38,7 +38,7 @@ I'm a Software Development Engineer (SDE-2) focused on building scalable cloud s
 
 ## 🛠 Skills
 
-`Python` · `C++` · `JavaScript` · `Docker` · `React` · `ESP32` · `Raspberry Pi` · `Git`
+`GoLang` · `Docker` · `React` · `ESP32` · `Raspberry Pi` · `Git`, `Python` · `C++` · `JavaScript`
 
 ---
 
