@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👽 Sachinthra N V
+# Sachinthra N V
 
-💻 Cloud Developer | 🔧 IoT & Systems Enthusiast  
-📍 Currently @ Hewlett Packard Enterprise (SDE-2)
+Cloud Developer | IoT & Systems Enthusiast  
+Currently @ Hewlett Packard Enterprise (SDE-2)
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Software Development Engineer (SDE-2) focused on building scalable cloud systems and deploying real-world solutions using IoT and containerized applications. I enjoy working at the intersection of hardware, software, and infrastructure.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - **Blog Diary Website** – A Dockerized blogging + Q&A platform deployed on Raspberry Pi with GitHub CI/CD.
 - **Disaster Management Portal** – Deep learning + drone-based web app for disaster prediction, hosted on Raspberry Pi.
@@ -55,12 +55,12 @@ I'm a Software Development Engineer (SDE-2) focused on building scalable cloud s
 
 ---
 
-## 🔗 Connect
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sachinthra)
 - [Twitter / X](https://x.com/Sachinthra)
 - [GitHub](https://github.com/sachinthra)
-- 📫 [Email Me](mailto:sachinthranv@gmail.com)
+- [Email Me](mailto:sachinthranv@gmail.com)
 
 ---
 
