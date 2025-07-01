@@ -24,15 +24,7 @@ Currently @ Hewlett Packard Enterprise (SDE-2)
 
 ## About Me
 
-I'm a Software Development Engineer (SDE-2) focused on building scalable cloud systems and deploying real-world solutions using IoT and containerized applications. I enjoy working at the intersection of hardware, software, and infrastructure.
-
----
-
-## Projects
-
-- **Blog Diary Website** – A Dockerized blogging + Q&A platform deployed on Raspberry Pi with GitHub CI/CD.
-- **Disaster Management Portal** – Deep learning + drone-based web app for disaster prediction, hosted on Raspberry Pi.
-- **Home Automation System** – ESP32 + Raspberry Pi project integrated with Google Cloud and ThingSpeak.
+I'm a Software Development Engineer (SDE-2) focused on building scalable cloud systems and deploying real-world solutions using IoT and containerized applications. I enjoy working at the intersection of hardware, software, and infrastructure. Exploring the world of IOT using ESP32 and Raspberry Pi.
 
 ---
 
